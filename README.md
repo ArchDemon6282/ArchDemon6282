@@ -2,7 +2,7 @@
 ### 🎃 Olá Sou o Arch um Jogador de Minecraft que decidiu Começar a Desenvolver 🎃
 
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
-)](https://kingo.network/)
+)](https://bio.site/ArchDemon6282)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )](https://discord.com/invite/wJp7Zeghy9)
 
