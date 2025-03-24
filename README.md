@@ -24,5 +24,6 @@
 ![ArchDemon6282 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchDemon6282&show_icons=true&theme=dark)
 
 
-
-<a href="#"><img src="contributions.svg"></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LMS5413&theme=dark&hide_border=true" alt="GitHub Streak" width="70%">
+</p>
