@@ -22,3 +22,7 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ![ArchDemon6282 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchDemon6282&show_icons=true&theme=dark)
+
+
+
+<a href="#"><img src="contributions.svg"></a>
