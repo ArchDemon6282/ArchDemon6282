@@ -27,5 +27,5 @@
 ![ArchDemon6282 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchDemon6282&show_icons=true&theme=dark)
 
 <p align="center">
-  <img src="https://github.com/LMS5413/LMS5413/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+  <img src="https://github.com/ArchDemon6282/cobrinha/blob/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </p>
