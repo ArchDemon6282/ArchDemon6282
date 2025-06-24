@@ -24,6 +24,9 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
+![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 ![ArchDemon6282 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchDemon6282&show_icons=true&theme=dark)
 
