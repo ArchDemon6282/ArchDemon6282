@@ -33,3 +33,6 @@
 <p align="center">
   <img src="https://github.com/ArchDemon6282/cobrinha/blob/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </p>
+  Contador de Visitantes<br>
+  <img src="https://profile-counter.glitch.me/ArchDemon6282/count.svg" />
+</p>
