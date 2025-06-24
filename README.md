@@ -33,6 +33,9 @@
 <p align="center">
   <img src="https://github.com/ArchDemon6282/cobrinha/blob/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<p align="center"> 
+
   Contador de Visitantes<br>
   <img src="https://profile-counter.glitch.me/ArchDemon6282/count.svg" />
 </p>
